@@ -1,0 +1,14 @@
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\bin\Debug\netcoreapp3.1\StaticKeyWord.exe
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\bin\Debug\netcoreapp3.1\StaticKeyWord.deps.json
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\bin\Debug\netcoreapp3.1\StaticKeyWord.runtimeconfig.json
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\bin\Debug\netcoreapp3.1\StaticKeyWord.runtimeconfig.dev.json
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\bin\Debug\netcoreapp3.1\StaticKeyWord.dll
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\bin\Debug\netcoreapp3.1\StaticKeyWord.pdb
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.csproj.AssemblyReference.cache
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.AssemblyInfoInputs.cache
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.AssemblyInfo.cs
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.dll
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.pdb
+C:\Users\bwaff\repos\StaticKeyWord\StaticKeyWord\obj\Debug\netcoreapp3.1\StaticKeyWord.genruntimeconfig.cache
